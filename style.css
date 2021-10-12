@@ -1,0 +1,61 @@
+  body{
+  background-image: url(https://wallpaperforu.com/wp-content/uploads/2020/08/nature-wallpaper-20081616082047-1536x1003.jpg);
+  background-repeat: no-repeat;
+  background-size: fixed;
+  background-attachment: fixed;
+}
+h1{
+  text-align: center;
+  text-decoration: underline;
+  color:white;
+}
+h3{
+  font-weight: bold;
+}
+div{
+  width:70%;
+  margin-left: 15%;
+  border:1px solid #ffffff;
+  margin-bottom: 30px;
+  padding: 2%;
+  background-color:rgb(229, 237, 111,.8);
+  font-family: 'Zilla Slab', serif;
+}
+header{
+  width:70%;
+  margin-left: 15%;
+  padding: 2%;
+  border:1px solid #ffffff;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  background-color:rgb(229, 237, 111,.8);
+}
+p{
+  text-align:justify;
+  font-size: 20px;
+}
+li{
+  font-size: 20px;
+}
+.subtitles{
+
+}
+#maincaption{
+  text-align: center;
+  font-style: italic;
+  font-weight: lighter;
+}
+#contactdata{
+  text-align: right;
+  font-style: italic;
+  font-size: 10px;
+}
+#img1{
+  width:30%;
+}
+#img2{
+  width:20%;
+}
+#img3{
+  width:12%;
+}
