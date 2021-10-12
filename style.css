@@ -1,7 +1,7 @@
   body{
   background-image: url(https://wallpaperforu.com/wp-content/uploads/2020/08/nature-wallpaper-20081616082047-1536x1003.jpg);
   background-repeat: no-repeat;
-  background-size: fixed;
+  background-size: cover;
   background-attachment: fixed;
 }
 h1{
